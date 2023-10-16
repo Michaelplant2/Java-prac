@@ -1,7 +1,7 @@
 /**
  * hello
  */
-public class hello {
+public class variables {
 
    public static void main(String[] args) {
       int x = 123;
@@ -10,6 +10,6 @@ public class hello {
       char symbol = '@';
       String name = "Mike";
 
-      System.out.println();
+      System.out.println("Hello my name is "+name);
    }
 }
