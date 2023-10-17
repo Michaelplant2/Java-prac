@@ -10,6 +10,10 @@ public class variables {
       char symbol = '@';
       String name = "Mike";
 
+      System.out.println(x);
+      System.out.println(y);
+      System.out.println(z);
+      System.out.println(symbol);
       System.out.println("Hello my name is "+name);
    }
 }
